@@ -13,3 +13,5 @@ A lightweight, high-performance desktop cheatsheet overlay for KDE Plasma 6. Bui
 
 ```bash
 curl -sSfL [https://raw.githubusercontent.com/OJUrbaniak/kwin-shortcut-overlay/main/install.sh](https://raw.githubusercontent.com/OJUrbaniak/kwin-shortcut-overlay/main/install.sh) | bash
+
+<img width="1297" height="764" alt="image" src="https://github.com/user-attachments/assets/fbd747f2-58b7-4a03-9473-319478e765c2" />
