@@ -1,0 +1,9 @@
+[package]
+name = "kwin-shortcut-overlay"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+slint = "1.6"
+winit = "0.29"
+i-slint-backend-winit = "1.6"
